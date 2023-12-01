@@ -21,40 +21,42 @@ Despite alternative options, policy implementation is crucial to encourage wides
 ## HC4 Summary
 We learned about how NYC's reliance on aging power plants and the use of natural gas contribute to high emissions and air pollutants. Buildings, especially in Manhattan, are identified as the largest source of GHG emissions, with a notable concentration in properties built in the 1950s. Legislation such as Local Law 97 aims to reduce emissions from large buildings, which are responsible for a substantial portion of carbon dioxide output. The text also highlights the energy inefficiency of appliances in Manhattan's densely populated buildings and the strain they place on electricity consumption. Despite these challenges, NYC is implementing measures to reduce emissions, such as the 2026 law banning fossil fuels in most new buildings.
 ## HC7 and HC8 Summary
-### Mean Total Gallons
-In HC7/HC8, I learned some things. First, I learned that out of all our neighborhoods in Manhattan, we found out that Hells Kitchen has the highest Mean Total Gallons. Here is the graph:
+### Mean Total Gallons 
+In HC7/HC8, we that out of all our neighborhoods in Manhattan, Hells Kitchen has the highest Mean Total Gallons, high or low. Here are the graphs:
 
 ![Graph 1](Mean_Total_Gallons(high).png)
 
-Blah Blah Blah
 
 ![Graph2](Mean_Total_Gallons(low).png)
-
-Blah Blah Blah
+### Mean Total MMBTU
+Kips Bay has the highest Mean Total MMBTU (High) while Soho has the lowest. The Mean Total MMBTU ranges from about 4500 to 6500. Here is the graph:
 
 ![Graph 3](Mean_Total_MMBTU(high).png)
 
-Blah Blah Blah
+Kips Bay also has the highest Mean Total MMBTU (Low) while Soho has the lowest. The Mean Total MMBTU ranges from about 6200 to 9000. Comparatively, Kips Bay boilers produce the most amount of heat. Here is the graph:
 
 ![Graph 4](Mean_Total_MMBTU(low).png)
+### Mean Boiler Capacity
 
-Blah Blah Blah
+This graph shows the boiler capacity in each of our neighborhoods. Kips Bay has the largest mean boiler capacity, which can be attributed to its larger population density. Here is the graph:
 
 ![Graph 5](Mean_Boiler_Capacity.png)
+### Green Greater Buildings
 
-Blah Blah Blah
+Green Greater Buildings are buildings that can benefit the environment around them. The neighborhood with the most amount of these buildings is the Upper East Side whereas the neighborhood with the least amount of these buildings is Soho. Here is the graph:
 
 ![Graph 6](Green_Greater_Buildings.png)
 
-I also learned that there is no correlation between the number of floors and the total amount of gallons in each building. Here is the graph:
+We also discovered that there is no correlation between the number of floors and the total amount of gallons in each building. Looking at the scatterplot, there is no clear trend between the two axes. Here is the graph:
 
 ![Correlation Graph](TotalGallons_Floor.png)
 
-Finally, I learned about the ages of boilers in each building. Most boilers are between 10 to 30 years old. Here is the graph:
+We also learned about the ages of boilers in each building. Most boilers are between 10 to 30 years old. About 10% of the boilers are 30+ years old and the rest are less than 10 years old. Here is the graph:
 
 ![Boiler Age Graph](Boiler_Age_Range.png)
 
-In conclusion, we learned a lot about our neighborhood's buildings and a lot about cleaning and visualizing data to convey certain trends or statistics that are important.
+The above information is the product of the information we gathered in the past few weeks. We learned a lot, not only about our neighborhoods, but also how to convey that data effectively through the use of graphs and programming.
+
 ## Map of HC9
 Here is my map from HC9:
 <dl>
