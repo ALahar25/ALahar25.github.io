@@ -1,4 +1,3 @@
-# Soho
 
 ## Highlighted map of HC6
 ![HC6 Highlighted Map](Soho_Highlighted.png)
