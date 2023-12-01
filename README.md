@@ -23,15 +23,15 @@ We learned about how NYC's reliance on aging power plants and the use of natural
 ## HC7 and HC8 Summary
 In HC7/HC8, I learned some things. First, I learned that out of all our neighborhoods in Manhattan, we found out that Hells Kitchen has the highest Mean Total Gallons. Here is the graph:
 
-![Mean Total Gallons Graph](HellsKitchen.png)
+![Mean Total Gallons Graph](Mean_Total_Gallons(high).png)
 
 I also learned that there is no correlation between the number of floors and the total amount of gallons in each building. Here is the graph:
 
-![Correlation Graph](Correlation.png)
+![Correlation Graph](TotalGallons_Floor.png)
 
 Finally, I learned about the ages of boilers in each building. Most boilers are between 10 to 30 years old. Here is the graph:
 
-![Boiler Age Graph](BoilerAge.png)
+![Boiler Age Graph](Boiler_Age_Range.png)
 
 In conclusion, we learned a lot about our neighborhood's buildings and a lot about cleaning and visualizing data to convey certain trends or statistics that are important.
 ## Map of HC9
