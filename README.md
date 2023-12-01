@@ -21,9 +21,30 @@ Despite alternative options, policy implementation is crucial to encourage wides
 ## HC4 Summary
 We learned about how NYC's reliance on aging power plants and the use of natural gas contribute to high emissions and air pollutants. Buildings, especially in Manhattan, are identified as the largest source of GHG emissions, with a notable concentration in properties built in the 1950s. Legislation such as Local Law 97 aims to reduce emissions from large buildings, which are responsible for a substantial portion of carbon dioxide output. The text also highlights the energy inefficiency of appliances in Manhattan's densely populated buildings and the strain they place on electricity consumption. Despite these challenges, NYC is implementing measures to reduce emissions, such as the 2026 law banning fossil fuels in most new buildings.
 ## HC7 and HC8 Summary
+### Mean Total Gallons
 In HC7/HC8, I learned some things. First, I learned that out of all our neighborhoods in Manhattan, we found out that Hells Kitchen has the highest Mean Total Gallons. Here is the graph:
 
-![Mean Total Gallons Graph](Mean_Total_Gallons(high).png)
+![Graph 1](Mean_Total_Gallons(high).png)
+
+Blah Blah Blah
+
+![Graph2](Mean_Total_Gallons(low).png)
+
+Blah Blah Blah
+
+![Graph 3](Mean_Total_MMBTU(high).png)
+
+Blah Blah Blah
+
+![Graph 4](Mean_Total_MMBTU(low).png)
+
+Blah Blah Blah
+
+![Graph 5](Mean_Boiler_Capacity.png)
+
+Blah Blah Blah
+
+![Graph 6](Green_Greater_Buildings.png)
 
 I also learned that there is no correlation between the number of floors and the total amount of gallons in each building. Here is the graph:
 
