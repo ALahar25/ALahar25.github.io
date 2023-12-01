@@ -1,4 +1,4 @@
-# Kips Bay
+# Soho
 
 ## Highlighted map of HC6
 ![HC6 Highlighted Map](Soho_Highlighted.png)
@@ -37,5 +37,5 @@ In conclusion, we learned a lot about our neighborhood's buildings and a lot abo
 ## Map of HC9
 Here is my map from HC9:
 <dl>
-<iframe src="boilerMap.html" width="600" height="400" frameborder="0" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="mapSoho.html" width="600" height="400" frameborder="0" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 </dl>
